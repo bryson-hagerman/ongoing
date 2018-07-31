@@ -1,6 +1,6 @@
 # Ongoing Efforts
 
-This repo will contain various demo efforts and personal projects.
+This contains demo efforts and personal projects.
 
 ## Installation / Cloning
 
