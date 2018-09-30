@@ -1,11 +1,11 @@
 # Ongoing Efforts
 
-This contains demo efforts and personal projects.
+This repo contains general demo notebooks and personal projects.
 
 ## Installation / Cloning
 
-It can be directly cloned, or alternatively, explored via Docker using the following:
+To clone this repo via Docker use the following command:
 
 `docker run -p 8888:8888 bhagerman00/ongoing:round1`
 
-The latter is recommend to ensure environment consistency. 
+This is recommended to ensure environment consistency. 
