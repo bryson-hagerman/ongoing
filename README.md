@@ -6,6 +6,6 @@ This repo contains general demo notebooks and personal projects.
 
 To clone this repo via Docker use the following command:
 
-`docker run -p 8888:8888 bhagerman00/ongoing:round1`
+`docker run -p 8888:8888 bhagerman00/ongoing:round2`
 
 This is recommended to ensure environment consistency. 
